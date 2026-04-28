@@ -1,0 +1,6 @@
+pedido_id,cliente_id,producto,total
+1001,1,Laptop,3500
+1002,2,Monitor,900
+1003,2,Teclado,120
+1004,4,Silla,450
+1005,6,Mouse,80

@@ -1,0 +1,9 @@
+venta_id,fecha,categoria,producto,pais,vendedor,cantidad,precio_unitario
+1,2026-01-05,Tecnologia,Laptop,Peru,Ana,2,3500
+2,2026-01-08,Tecnologia,Monitor,Brasil,Bruno,3,900
+3,2026-01-10,Oficina,Silla,Peru,Ana,5,450
+4,2026-01-12,Oficina,Escritorio,Chile,Carla,2,700
+5,2026-01-15,Tecnologia,Teclado,Brasil,Bruno,10,120
+6,2026-01-18,Accesorios,Mouse,Colombia,Elena,8,80
+7,2026-01-20,Accesorios,Audifonos,Peru,Diego,4,150
+8,2026-01-22,Tecnologia,Laptop,Chile,Carla,1,3600
